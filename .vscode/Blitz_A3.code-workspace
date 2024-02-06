@@ -1,8 +1,30 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "./addons/blitz_a3.Malden"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.autoGuessEncoding": true,
+		"files.defaultLanguage": "${activeEditorLanguage}",
+		"explorer.confirmDragAndDrop": false,
+		"files.autoSave": "onFocusChange",
+		"Arma3CfgFunctions.Engine.EnableCommandsHover": true,
+		"Arma3CfgFunctions.Engine.enableCommandsAutoComplete": true,
+		"Arma3CfgFunctions.Engine.enableFunctionAutoComplete": true,
+		"Arma3CfgFunctions.Engine.EnableFunctionHover": true,
+		"Arma3CfgFunctions.Path.DescriptionPath": "blitz_a3.Malden/description.ext",
+		"Arma3CfgFunctions.Path.MissionRoot": "blitz_a3.Malden",
+		"Arma3CfgFunctions.wiki.useWebview": true,
+		"editor.fontSize": 16,
+		"editor.cursorStyle": "block-outline",
+		"Arma3CfgFunctions.Cfg.DisableAutoComplete": true,
+		"window.autoDetectColorScheme": true,
+		"editor.minimap.enabled": false,
+		"editor.renderWhitespace": "none",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "always",
+			"source.fixAll": "always"
+		}
+	}
 }
