@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+      - blitz-dev
   pull_request: ~
 
 jobs:
