@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Blitz-A3">
+    <Package name="Blitz-Local-Meta">
+        <Container name="Blitz-MP-Lobby">
+            <Key ID="STR_BLITZ_MP_LOBBY_TITLE">
+                <Original>Blitz Multiplayer Lobby</Original>
+                <Czech>Blitz Multiplayer Lobby</Czech>
+                <French>Blitz Multiplayer Lobby</French>
+                <German>Blitz Multi</German>
+                <Italian>Blitz Multiplayer Lobby</Italian>
+                <Polish>Blitz Multiplayer Lobby</Polish>
+                <Russian>Blitz Multiplayer Lobby</Russian>
+                <Spanish>Blitz Multiplayer Lobby</Spanish>
+                <Korean>Blitz Multiplayer Lobby</Korean>
+                <Chinese>Blitz Multiplayer Lobby</Chinese>
+                <Japanese>Blitz Multiplayer Lobby</Japanese>
+            </Key>
+            <Key ID="STR_BLITZ_MP_LOBBY_DESCRIPTION">
+            <Original>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Original>
+            <Czech>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Czech>
+            <French>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</French>
+            <German>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</German>
+            <Italian>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Italian>
+            <Polish>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Polish>
+            <Russian>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Russian>
+            <Spanish>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Spanish>
+            <Korean>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Korean>
+            <Chinese>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Chinese>
+            <Japanese>Continue to kill players to stay alive, if you don't you will die instead. Upon killing a player you will be granted the speed and damage reduction buff of "blitzed"</Japanese>
+        </Container>
+    </Package>
