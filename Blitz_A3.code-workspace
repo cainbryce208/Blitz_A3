@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "blitz_a3.Malden"
+        }
+    ],
+    "extensions": {
+        "recommendations": [
+            "hkonrrydland.a3cfgfunctions",
+            "blackfisch.sqf-language"
+        ]
+    }
+}
