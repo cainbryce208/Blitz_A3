@@ -1,0 +1,3 @@
+#include "config\blitzFunctions.h" // all functions are defined here. Include them into description.ext to load them to mission
+#include "config\blitzSettings.h" // all settings are defined here. Include them into description.ext to load them to mission
+#include "config\blitzMeta.h"
