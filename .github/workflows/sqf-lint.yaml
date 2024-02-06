@@ -1,0 +1,15 @@
+name: SQF Lint
+
+on: [push]
+
+jobs:
+        test-sqflint:
+            - runs-on: ubuntu-latest
+            -  steps:
+                - uses: actions/checkout@master
+                - uses: arma-actions/sqflint@v1.0
+                - with:
+                    args: --exit w --directory ./blitz_a3.Malden
+                name: Validate with SQFLint with custom arguments
+                with:
+                    args: --exit w --directory ./blitz_a3.Malden
