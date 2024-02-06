@@ -1,8 +1,20 @@
-name: SQF Lint
-
-on: [push]
+name: "SQF Lint for deploy to ${{ inputs.deploy_target }} by ${{ github.actor }} on ${{ github.ref }}"
+on:
+    push:
+        branches:
+            - master
+            - blitz-dev
 
 jobs:
+    sqf-lint:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@master
+
+            - uses: arma-actions/sqflint@v1.0
+              name: Validate with SQF Lint
+              with:
+                args: --exit w --directory "./blitz_a3.Malden"
         test-sqflint:
             - runs-on: ubuntu-latest
             -  steps:
